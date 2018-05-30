@@ -1,4 +1,4 @@
-package webapp;
+package com.deva.webapp;
 
 public class User {
 
